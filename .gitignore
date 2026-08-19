@@ -1,0 +1,4 @@
+customer_churn.db
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
