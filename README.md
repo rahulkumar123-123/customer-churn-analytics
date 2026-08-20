@@ -28,7 +28,7 @@ Three tables (originally an Excel export, staged into SQLite for querying):
 Full analysis, charts, and recommendations are in [`churn_analysis.ipynb`](./churn_analysis.ipynb).
 
 ## Tools
-Python, pandas, SQLite, matplotlib, seaborn
+Python, pandas, SQLite, matplotlib, Seaborn
 
 ## Limitations
 Small sample (21 customers) — findings are directional and would need validation on a larger extract before driving actual retention spend. Noted as a next step in the notebook.
